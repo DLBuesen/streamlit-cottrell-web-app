@@ -2,7 +2,7 @@ streamlit
 openpyxl # Needed for uploading Excel files
 requests
 numpy
-matplotlib.pyplot
+matplotlib
 time
 math
 scipy.special
