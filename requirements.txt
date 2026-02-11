@@ -7,4 +7,4 @@ matplotlib
 scipy
 pandas
 plotly
-xlswriter
+xlsxwriter
